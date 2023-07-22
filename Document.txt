@@ -1,0 +1,25 @@
+With C# windows forms I developed this app which contains data structures such as 4list, two way circular lists, stack with lists and generalized lists.
+The commands that can be used in this program are: 
+For Lists:
+1. Add new data to tail of the list.
+2. Add new data to head of the list.
+3. Deleting data from list.
+4. Deleting multiples of a value in the list.
+5. Sort the list.
+6. Merge two sorted lists.
+7. Print reverse.
+
+For Stacks:
+1. Push.
+2. Pop.
+
+For Generalized Lists:
+1. Add new atomic node.
+2. Add sublist.
+3. Count Sum of datas.
+4. Count average of datas.
+5. Count number of datas.
+6. Calculate depth of the list.
+7. Transfer into circular list and sort it.
+
+Every page has help quides make sure to read them all before using.
